@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at `Learning Something New EveryDay`
+- :school: I am a `expert` at `Learning Something New EveryDay`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
