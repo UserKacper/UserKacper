@@ -16,7 +16,7 @@ I like working on products that **actually help people**. If you’re building s
   - `saloonik/system.saloonik.com` — management system (TypeScript)
   - `saloonik/api.system.saloonik.com` — API (C#)
 - **CarrMan**  
-  As part of my work, I’ve delivered frontend features and improvements with **600+ commits**.
+  As part of my work, I’ve delivered frontend features and improvements with **1000+ commits**.
 
 ## Security-minded by default
 I’m **security-oriented**: I care about secure design, input validation, protecting secrets, least privilege, dependency hygiene, and safe deployment practices.
