@@ -11,9 +11,9 @@ I like working on products that **actually help people**. If you’re building s
 - **Delivery:** CI/CD, Docker, Linux deployments, self-hosting
 
 ## Projects
-- **Saloonik (Owner)**  
+- **Saloonik**  
   I’m the owner of **Saloonik** and I build both:
-  - `saloonik/system.saloonik.com` — management system (TypeScript)
+  - `saloonik/system.saloonik.com` — system UI (TypeScript)
   - `saloonik/api.system.saloonik.com` — API (C#)
 - **CarrMan**  
   As part of my work, I’ve delivered frontend features and improvements with **1000+ commits**.
