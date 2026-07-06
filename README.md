@@ -12,15 +12,9 @@ I like working on products that **actually help people**. If you’re building s
 
 ## Projects
 - **Saloonik**  
-  I’m the owner of **Saloonik** and I build both:
+  I’m the owner of **Saloonik**:
   - `saloonik/system.saloonik.com` — system UI (TypeScript)
   - `saloonik/api.system.saloonik.com` — API (C#)
 - **CarrMan**  
   As part of my work, I’ve delivered frontend features and improvements with **1000+ commits**.
-
-## Security-minded by default
-I’m **security-oriented**: I care about secure design, input validation, protecting secrets, least privilege, dependency hygiene, and safe deployment practices.
-
-## Let’s connect
-If you want to collaborate, talk architecture, or just share ideas — feel free to reach out:
-- GitHub: **@UserKacper**
+  
