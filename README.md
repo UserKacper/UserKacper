@@ -13,8 +13,6 @@ I like working on products that **actually help people**. If you’re building s
 ## Projects
 - **Saloonik**  
   I’m the owner of **Saloonik**:
-  - `saloonik/system.saloonik.com` — system UI (TypeScript)
-  - `saloonik/api.system.saloonik.com` — API (C#)
 - **CarrMan**  
   As part of my work, I’ve delivered frontend features and improvements with **1000+ commits**.
   
